@@ -10,7 +10,7 @@
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.3.1",
     "node-fetch": "^3.3.2",
     "yargs": "^17.7.2"
   }
